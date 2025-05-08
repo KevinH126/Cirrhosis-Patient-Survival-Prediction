@@ -15,10 +15,14 @@ Cirrhosis-Patient-Survival-Prediction/
 │
 ├── results/
 │   └── decision_tree.png
+|   └── cv_decision_tree.png
 │   └── naive_bayes.png
+|   └── cv_naive_bayes.png
 │   └── correlation_plot.png
 │   └── model_accuracy_comparison.png
 │
+├── report/
+|   └── Cirrhosis Patient Survival Prediction.png
 ├── README.md
 │
 └── LICENSE
