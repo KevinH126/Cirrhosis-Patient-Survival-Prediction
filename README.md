@@ -23,6 +23,7 @@ Cirrhosis-Patient-Survival-Prediction/
 │
 ├── report/
 |   └── Cirrhosis Patient Survival Prediction.png
+|
 ├── README.md
 │
 └── LICENSE
