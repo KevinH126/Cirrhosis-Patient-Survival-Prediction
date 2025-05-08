@@ -82,11 +82,6 @@ Key preprocessing steps included:
 * Decision Tree (cp = 0.001): **84.75% Accuracy**
 * Naive Bayes: **81.36% Accuracy**
 
-![Correlation Plot](results/correlation_plot.png)
-![Decision Tree](results/decision_tree.png)
-![Naive Bayes](results/naive_bayes.png)
-![Model Accuracy Comparison](results/model_accuracy_comparison.png)
-
 ## 📈 Key Insights
 
 * Decision trees provided higher overall accuracy, indicating better performance for this dataset.
